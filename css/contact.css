@@ -1,0 +1,32 @@
+.content{
+  width: 660px;
+  margin-left: 20px;
+  float: left;
+  font-size: 1.5rem;
+}
+.contact-form th {
+text-align: right;
+vertical-align: middle;
+padding: -5px -5px;
+width: 150px;
+height: 7rem;
+}
+.formB {
+  display: block;
+  padding:15px;
+  width: 480px;
+}
+.submitbutton {
+  font-size: 2rem;
+  height: 40px;
+  width: 70px;
+  background-color: #0099CC;
+  color: white;
+}
+td.submitbutton{
+  padding-left: 10rem;
+}
+.button-area {
+  text-align:center;
+}
+
