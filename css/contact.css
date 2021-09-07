@@ -27,8 +27,13 @@ td.submitbutton{
   padding: 10px;
 }
 .button-area {
-  text-align:center;
 }
 .submitbutton:hover{
   opacity: 0.6;
+}
+textarea{
+  width:480px
+}
+.content p {
+  text-align: center;
 }
